@@ -1,0 +1,21 @@
+
+	void affichagel();
+	void affichageu();
+	void affichageposl(int);
+	void affichageposu(int);
+	void recherchel(int );
+	void rechercheu(int );
+	int MENU(int);
+	int rechl();
+    int rechu();
+    void emprunt();
+    int login();
+    int idcheckl(char p[]);
+    int idchecku(char p[]);
+    void ajoutl();
+    void ajoutu();
+    void signin();
+    void dropl(int pos);
+	void dropu(int pos);
+	int rechidlivre();
+	int rechiduti();
